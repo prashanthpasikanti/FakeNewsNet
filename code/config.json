@@ -23,5 +23,5 @@
     }
   ],
 
-  "data_features_to_collect" : ["news_articles"}
+  "data_features_to_collect" : ["news_articles"]
 }
